@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+pandas
+chromadb
+google-generativeai
+sentence-transformers
+openpyxl
