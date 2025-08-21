@@ -1,9 +1,0 @@
-[33mcommit ab4ca5616a2c47a18b772518f8579dd9be14a1c0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
-Author: Murat Bakıcı <m.42turkiye@gmail.com>
-Date:   Thu Aug 21 19:23:36 2025 +0300
-
-    İlk sürüm: Flutter uygulaması ve Python arka ucu
-
- .gitignore       |  1 [32m+[m
- RuyaTabirAPI.pem | 27 [31m---------------------------[m
- 2 files changed, 1 insertion(+), 27 deletions(-)
