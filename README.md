@@ -6,7 +6,7 @@ Bu proje, Flutter ile geliştirilmiş bir mobil uygulama ve Python (Flask) ile y
 
 - **Flutter Mobil Uygulaması:** Kullanıcıların rüyalarını girebildiği ve sonuçları görebildiği modern ve kullanıcı dostu bir arayüz.
 - **Python (Flask) Arka Uç:** Gelen rüya metinlerini işleyen, anlamsal arama yapan ve yorum üreten sunucu.
-- **Vektör Veritabanı (ChromaDB):** Rüya tabirlerinin anlamsal olarak aranabilmesi için verilerin saklandığı ve yönetildiği veritabanı.
+- **Vektör Veritabanı (ChromaDB):** Web scraping ile toplanan rüya tabirleri verilerinin anlamsal olarak aranabilmesi için saklandığı ve yönetildiği veritabanı.
 - **Yapay Zeka (Google Gemini):** Rüya metinlerini analiz etme, en uygun tabirleri bulma ve kullanıcıya sunulacak nihai yorumu oluşturma.
 
 ## Kullanılan Teknolojiler
