@@ -45,3 +45,4 @@ chroma_db_data/
 # Secrets
 .env
 *.env
+*.pem
